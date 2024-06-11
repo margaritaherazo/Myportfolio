@@ -270,14 +270,14 @@ blockquote {
 
 @media (max-width: 991px) {
   #projects {
-    background-image: url(../img/Drip2.png), url(../img/Steam2.png);
+    background-image: url(../img/Drip2.png);
     background-size: cover;
   }
 }
 
 @media (max-width: 768px) {
   #projects {
-    background-image: url(../img/Drip2.png), url(../img/Steam2.png);
+    background-image: url(../img/Drip2.png);
     background-size: cover;
   }
 }
@@ -555,14 +555,14 @@ figure.effect-honey:hover h2 i {
 
 @media (max-width: 991px) {
   #contact {
-    background-image: url(../img/Drip2.png), url(../img/Steam2.png);
+    background-image: url(../img/Drips.png);
     background-size: cover;
   }
 }
 
 @media (max-width: 768px) {
   #contact {
-    background-image: url(../img/Drip2.png), url(../img/Steam2.png);
+    background-image: url(../img/Drips.png);
     background-size: cover;
   }
 }
