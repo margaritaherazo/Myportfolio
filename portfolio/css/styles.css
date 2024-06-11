@@ -213,6 +213,19 @@ blockquote {
   }
 }
 
+.download-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #0cbaa6;
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 /* about */
 
 #about {
