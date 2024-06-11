@@ -271,14 +271,14 @@ blockquote {
 @media (max-width: 991px) {
   #projects {
     background-image: url(../img/Drip2.png);
-    background-size: 800px;
+    background-size: 800px 1000px;
   }
 }
 
 @media (max-width: 768px) {
   #projects {
     background-image: url(../img/Drip2.png);
-    background-size: 800px;
+    background-size: 800px 1000px;
   }
 }
 
