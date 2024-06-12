@@ -566,7 +566,7 @@ figure.effect-honey:hover h2 i {
 @media (max-width: 768px) {
   #contact {
     background-image: url(../img/Drips2.png);
-    background-size: 640px 960px;
+    background-size: cover;
     background-position: center;
   }
 }
