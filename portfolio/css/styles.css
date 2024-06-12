@@ -270,14 +270,14 @@ blockquote {
 
 @media (max-width: 991px) {
   #projects {
-    background-image: url(../img/Drip2.png);
+    background-image: url(../img/Drip3.png);
     background-size: contain;
   }
 }
 
 @media (max-width: 768px) {
   #projects {
-    background-image: url(../img/Drip2.png);
+    background-image: url(../img/Drip3.png);
     background-size: contain;
   }
 }
@@ -555,15 +555,15 @@ figure.effect-honey:hover h2 i {
 
 @media (max-width: 991px) {
   #contact {
-    background-image: url(../img/Drips.png);
-    background-size: contain;
+    background-image: url(../img/Drips2.png);
+    background-size: cover;
   }
 }
 
 @media (max-width: 768px) {
   #contact {
-    background-image: url(../img/Drips.png);
-    background-size: contain;
+    background-image: url(../img/Drips2.png);
+    background-size: cover;
   }
 }
 
