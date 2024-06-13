@@ -1,6 +1,9 @@
 
 # Margarita Herazo Portfolio
 
+![www margaritaherazoportfolio com](https://github.com/margaritaherazo/Myportfolio/assets/143548777/31e5e827-c288-4efd-84dc-0287f0872c53)
+
+
 ## Introduction
 
 Welcome to my portfolio! This project serves as a showcase of my work and skills as a web developer. Here, you'll find information about me, my projects, skills, and how to get in touch with me.
@@ -13,18 +16,8 @@ Welcome to my portfolio! This project serves as a showcase of my work and skills
 - JavaScript
 - jQuery
 
-## Project Overview
+## check it live
 
-### Landing Page
-- Description: A visually stunning landing page showcasing my identity as a web developer.
-
-
-### Projects Section
-- Description: A showcase of my projects, each with a brief overview and links to live demos.
+www.margaritaherazoportfolio.com
 
 
-### Skills Section
-- Description: Highlights of my technical skills in web development.
-
-### Contact Section
-- Description: Information on how to get in touch with me for inquiries, collaboration opportunities, or any questions.
