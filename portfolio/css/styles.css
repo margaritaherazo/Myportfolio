@@ -205,7 +205,8 @@ blockquote {
 
 @media (max-height: 480px) {
   .tm-hero-text-container-inner {
-    margin-top: -40px;
+    margin: 50px;
+    font-size: 65%;
   }
 
   .tm-intro-next {
@@ -264,6 +265,7 @@ blockquote {
   background-image: url(../img/Drip2.png), url(../img/Steam2.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   position: relative;
   
 }
@@ -531,7 +533,7 @@ figure.effect-honey:hover h2 i {
   color: white;
   background-color: black;
   background-image: url(../img/Drips.png), url(../img/Steam5.png);
-  background-size: 1500px;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
@@ -688,13 +690,13 @@ p {
   }
 
   .navbar-collapse {
-    background-color: rgb(255, 255, 255);
+    background-color: black;
     padding: 10px;
     border-radius: 3px;
   }
 
   .navbar-collapse .nav-link {
-    color: #707070;
+    color: white;
 	padding-right: 20px;
   }
 }
