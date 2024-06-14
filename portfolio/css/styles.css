@@ -144,7 +144,7 @@ blockquote {
 
 #home {
 	background-color: black;
-  background-image: url(../img/background1.png);
+  background-image: url(../img/background1.jpg);
   background-size: 1800px 1200px;
   background-position: center;
   background-repeat: no-repeat;
@@ -162,7 +162,7 @@ blockquote {
 
 @media (max-width: 768px) {
   #home {
-    background-image: url(../img/background3.png);
+    background-image: url(../img/background3.jpg);
     background-position: center;
     background-size: 730px 1200px;
    
@@ -268,21 +268,6 @@ blockquote {
   
 }
 
-@media (max-width: 991px) {
-  #projects {
-    background-image: url(../img/Drip3.png);
-    background-size: cover;
-    background-position: center;
-  }
-}
-
-@media (max-width: 768px) {
-  #projects {
-    background-image: url(../img/Drip3.png);
-    background-size: 640px 960px;
-    background-position: center;
-  }
-}
 
 .tm-projects-content {
   position: relative;
@@ -546,20 +531,13 @@ figure.effect-honey:hover h2 i {
   color: white;
   background-color: black;
   background-image: url(../img/Drips.png), url(../img/Steam5.png);
-  background-size: 1600px;
+  background-size: 1500px;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
   position: relative;
   padding-bottom: 50px;
   padding-top: 100px;
-}
-
-@media (max-width: 768px) {
-  #contact {
-    background-image: url(../img/Drips.png);
-    background-position: center;  
-  }
 }
 
 #contact-text {
